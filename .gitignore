@@ -1,0 +1,12 @@
+/target/
+/.project
+/.factorypath
+/.classpath
+compiler.xml
+encodings.xml
+misc.xml
+/src/main/java/com/bmais/gestao/restapi/tests
+/.settings/
+/.idea/
+target
+/*.log
